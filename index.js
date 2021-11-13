@@ -5,5 +5,3 @@ d3.select('h1').style('color', 'blue')
 
 d3.select('body').append('p')
 .text('a new paragraph')
-
-data = [30,70];
